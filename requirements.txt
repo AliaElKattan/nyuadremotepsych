@@ -1,7 +1,7 @@
 # Latest version of pip (to 03-June-2020)
 pip==20.1.1
 setuptools==47.1.1
-wheel==0.34.2
+wheel==0.38.1
 
 # Psychology experiments
 PsychoPy==2020.1.2
